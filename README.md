@@ -1,2 +1,10 @@
-# Gain_Block-EKG-
-Created a Gain block filter for a EKG board. Provided a building block solution for Microchip Technology. Customer's can use this a reference design for their custom boards.
+# Gain Block for EKG board
+
+
+<h3>Layout and PCB images view are provided below: 
+
+![Layout Image](Layout.png)  <br>
+
+![PCB View Image](pcb.png)  <br>
+
+![PCB View Image](pcb1.png)  <br>
